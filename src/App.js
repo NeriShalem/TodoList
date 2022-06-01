@@ -68,7 +68,7 @@ function App() {
         />
         <div className="githubSvg">
           <a
-            href="https://github.com/nerisellem/TodoList/releases/new"
+            href="https://github.com/nerisellem/TodoList/tree/master"
             target="_blank"
           >
             <svg
