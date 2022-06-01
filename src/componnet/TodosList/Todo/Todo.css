@@ -1,0 +1,27 @@
+
+.todoDiv{
+  display: flex;
+  align-items: baseline;
+  border-block-end: 1.5px solid black;
+  }
+  
+  
+.todoDiv label {
+    cursor: pointer;
+    font-size: 1.5em;
+  }
+  
+  .todoDiv input[type = 'checkbox'] {
+    cursor: pointer;
+    margin-right: 6px;
+  }
+  
+  .react-icon-del {
+    cursor: pointer;
+    margin-left: 6px;
+  }
+  .react-icon-edit {
+    cursor: pointer;
+    margin-left: 15px;
+  }
+  

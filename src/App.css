@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+body {
+  font-size: 1em;
+  font-family: 'Gloria Hallelujah';
+}
+
+h2 {
+  margin-block-start: 0em;
+  margin-block-end: 0.0em;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.headerText {
+  font-size: calc(6px + 10vmin);
+  color: rgb(247, 221, 175);
+}
+
+.headerText:hover {
+  font-size: calc(7px + 11vmin);
+  color: rgb(240, 203, 138);
+}
+
+.Container {
+  background-color: #ffb18d;
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.githubSvg{
+  cursor: pointer;
+  display: flex;
+  justify-content: left;
+}
+
+

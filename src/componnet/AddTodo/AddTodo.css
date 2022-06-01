@@ -1,0 +1,13 @@
+
+.divAddTodo{
+    margin-top: 15px;
+  }
+  
+  .inputAddTodo {
+    border-radius: 0.5em;
+    font-size: 0.9em;
+    height: 40px;
+    width: 350px;
+    font-family: 'Gloria Hallelujah'  ;
+  
+  }
